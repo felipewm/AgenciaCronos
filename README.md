@@ -1,6 +1,6 @@
 # AgenciaCronos
 
-Projeto desenvolvido em ASP.NET Core MVC 6.0 com Entity FrameWork.
+Projeto desenvolvido em ASP.NET Core 6.0 MVC com Entity FrameWork.
 
 Banco de dados utilizado SQL Server.
 
